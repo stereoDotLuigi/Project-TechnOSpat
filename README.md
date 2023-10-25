@@ -1,5 +1,5 @@
 # Project-TechnOSpat
-Technopat Sosyal'in İS ikonları için küçük ama iyi bir geliştirme. Stereo.Luigi99 tarafından yapıldı.
+Technopat Sosyal'in İS ikonları için küçük bir geliştirme. Stereo.Luigi99 tarafından yapıldı.
 Tanıtım konusuna bağlantıdan ulaşabilirsiniz.
 https://www.technopat.net/sosyal/konu/technopattaki-is-ikonlarini-degistirmek-project-technospat.2882184/
 
