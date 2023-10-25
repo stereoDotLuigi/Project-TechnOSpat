@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Project TechnOSpat",
+    "description": "Stereo.Luigi99 tarafından yapıldı. To infinity and beyond!",
+    "version": "1.1",
+    "icons": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "64": "icons/icon64.png",
+      "128": "icons/icon128.png"
+    },
+    "content_scripts": [
+      {
+        "js": [
+          "scriptMainpage.js"
+        ],
+        "matches": [
+          "https://www.technopat.net/sosyal/*"
+        ]
+      }
+    ]
+  }
