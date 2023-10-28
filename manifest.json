@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Project TechnOSpat",
+    "description": "Stereo.Luigi99 tarafından yapıldı. That's-a so nice!",
+    "version": "1.2",
+    "icons": {
+      "16": "pt-icons/icon16.png",
+      "32": "pt-icons/icon32.png",
+      "64": "pt-icons/icon64.png",
+      "128": "pt-icons/icon128.png"
+    },
+    "web_accessible_resources": [
+      {
+        "resources": [ "/icons/*" ],
+        "matches": [ "https://www.technopat.net/*" ]
+      }
+    ],
+    "content_scripts": [
+      {
+        "js": [
+          "scriptMainpage.js"
+        ],
+        "matches": [
+          "https://www.technopat.net/sosyal/*"
+        ],
+        "css": [
+          "hide-fa.css"
+        ],
+        "run_at": "document_start"
+      }
+    ]
+  }
