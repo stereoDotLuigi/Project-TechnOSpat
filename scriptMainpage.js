@@ -8,7 +8,7 @@ var baseElmS = document.createElement('img');
 baseElmS.width = 18;
 baseElmS.height = 18; 
 
-window.onload = function MainPage()
+document.addEventListener("DOMContentLoaded", function(event) {
     {
         if ((window.location.href == "https://www.technopat.net/sosyal/") || (window.location.href == "https://www.technopat.net/sosyal/kategori/isletim-sistemleri.6/"))
         {
@@ -753,4 +753,4 @@ window.onload = function MainPage()
             PisiLinuxP2.insertBefore(newPisiLinux, oldPisiLinux);
         }
 
-    }
+    });

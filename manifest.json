@@ -9,6 +9,12 @@
       "64": "pt-icons/icon64.png",
       "128": "pt-icons/icon128.png"
     },
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "618838.technospat.sosyal@technopat.net",
+          "strict_min_version": "109.0"
+        }
+    },
     "web_accessible_resources": [
       {
         "resources": [ "/icons/*" ],
