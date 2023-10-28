@@ -1,5 +1,5 @@
 # Project-TechnOSpat
-[<img src="https://github.com/stereoDotLuigi/Project-TechnOSpat/assets/110627763/924544e5-6400-49c4-b5af-52b6df818091">](https://chromewebstore.google.com/detail/project-technospat/bobkofmkjmklhjieiaokljhkeeahhpap)
+[<img src="https://github.com/stereoDotLuigi/Project-TechnOSpat/assets/110627763/a3ee76aa-5032-4f4d-936a-e8304bf00303">](https://chromewebstore.google.com/detail/project-technospat/bobkofmkjmklhjieiaokljhkeeahhpap)
 -
 Technopat Sosyal'in İS ikonları için küçük bir geliştirme. Stereo.Luigi99 tarafından yapıldı.
 Tanıtım konusuna bağlantıdan ulaşabilirsiniz.
