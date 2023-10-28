@@ -1,4 +1,6 @@
 # Project-TechnOSpat
+[<img src="https://github.com/stereoDotLuigi/Project-TechnOSpat/assets/110627763/924544e5-6400-49c4-b5af-52b6df818091">](https://chromewebstore.google.com/detail/project-technospat/bobkofmkjmklhjieiaokljhkeeahhpap)
+-
 Technopat Sosyal'in İS ikonları için küçük bir geliştirme. Stereo.Luigi99 tarafından yapıldı.
 Tanıtım konusuna bağlantıdan ulaşabilirsiniz.
 https://www.technopat.net/sosyal/konu/technopattaki-is-ikonlarini-degistirmek-project-technospat.2882184/
@@ -12,10 +14,6 @@ Bir de Linux kategorisinin %70'ten fazlası sadece penguen. Pop!_OS'in logosu pa
 
 Cevabınız evet ise sizi eklentimi kullanmaya davet ediyorum.
 Project TechnOSpat ile kategori ikonlarını daha iyi ve gerçek hallerine döndürebilirsiniz.
-
-## Chromium Tarayıcılar (Chrome, Opera, Edge vb.)
-Chrome Web Mağazası'ndan tek tuşla yükleyebilirsiniz.
-https://chromewebstore.google.com/detail/project-technospat/bobkofmkjmklhjieiaokljhkeeahhpap
 
 ### CRX Dosyaları
 Sürüm 1.1 (Linux/macOS kategorilerinde sayfa atlayınca gözükmeyen ikonlar düzeltildi.)
