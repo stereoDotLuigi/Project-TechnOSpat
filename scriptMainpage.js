@@ -8,7 +8,7 @@ var baseElmS = document.createElement('img');
 baseElmS.width = 18;
 baseElmS.height = 18; 
 
-document.addEventListener("DOMContentLoaded", function(event) {
+document.addEventListener("DOMContentLoaded", function(event) 
     {
         if ((window.location.href == "https://www.technopat.net/sosyal/") || (window.location.href == "https://www.technopat.net/sosyal/kategori/isletim-sistemleri.6/"))
         {
