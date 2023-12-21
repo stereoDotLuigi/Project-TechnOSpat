@@ -10,7 +10,7 @@ baseElmS.height = 18;
 
 document.addEventListener("DOMContentLoaded", function(event) 
     {
-        if ((window.location.href == "https://www.technopat.net/sosyal/") || (window.location.href == "https://www.technopat.net/sosyal/kategori/isletim-sistemleri.6/"))
+        if ((window.location.href == "https://www.technopat.net/sosyal/") || (window.location.href == "https://www.technopat.net/sosyal/kategori/isletim-sistemleri.6/") || (window.location.href == "https://techolay.net/sosyal/") || (window.location.href == "https://techolay.net/sosyal/kategori/isletim-sistemleri.51/"))
         {
             // Ana Sayfa (WinNormal + MacSmall + LinuxSmall)
 
